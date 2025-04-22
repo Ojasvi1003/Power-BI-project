@@ -18,49 +18,13 @@ Gain insights into overall business health and profitability
 📌 Dashboard Sections & Key KPIs
 
 📈 Sales Performance Overview
-Total Sales, Total Orders, Total Customers
-
-Average Order Value
-
-Gross Profit / Profit Margin
 
 🌍 Region-wise Performance
-Sales by Region (Map)
-
-Top 5 Regions by Revenue
-
-Region-wise Sales Trends & Profitability
-
-Identifying declining regions (YoY/Monthly analysis)
 
 📦 Product & Segment Analysis
-Sales by Category & Subcategory
-
-Top 10 Products by Revenue
-
-Profit Margins by Product
-
-Underperforming Segments
 
 👤 Customer Insights
-Customer Lifetime Value
-
-Repeat vs New Customers
-
-Top Customers by Revenue
-
-Regional Heatmap of Customers
 
 ⏱️ Time-Based Trends
-Monthly & Yearly Sales Trends
-
-Seasonality Analysis
-
-Moving Averages & Growth Rates
 
 💰 Profitability & Revenue Efficiency
-Revenue per Customer/Transaction
-
-Average Selling Price
-
-Order Quantity vs Revenue
