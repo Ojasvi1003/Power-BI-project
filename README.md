@@ -4,7 +4,7 @@ Sales Performance Dashboard (Power BI)
 
 This project is an interactive Power BI Dashboard designed to uncover insights from sales data using rich visual analytics. As a Business Analyst, the goal was to identify region-wise sales decline and determine underperforming product segments using a structured data-driven approach.
 
-Objective
+🎯 Objective
 To analyze and visualize multi-dimensional sales data in order to:
 
 Identify regions with declining sales
@@ -15,7 +15,8 @@ Understand customer behavior and trends
 
 Gain insights into overall business health and profitability
 
-Dashboard Sections & Key KPIs
+📌 Dashboard Sections & Key KPIs
+
 📈 Sales Performance Overview
 Total Sales, Total Orders, Total Customers
 
